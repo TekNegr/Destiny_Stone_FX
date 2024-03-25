@@ -1,0 +1,15 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.base.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.controls.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.fxml.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.graphics.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.media.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.swing.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx.web.jar",
+        "c:\\Users\\Pas un taille crayon\\Desktop\\DevStar\\java-ece\\javafx-sdk-ici\\lib\\javafx-swt.jar"
+    ]
+}
